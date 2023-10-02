@@ -4,3 +4,7 @@
   width: 100%;
   background-size: cover;
 }
+
+body, button, p {
+  font-family: 'Montserrat',sans-serif
+}
